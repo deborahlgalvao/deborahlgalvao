@@ -4,7 +4,7 @@
 
 <li>⚖️ Currently working as Legal Assistant and Social Media freelancer</li>
 <li>🔠 I'm a volunteer translator at Coursera</li>
-<li>🌐 Member of Women's Health and Human Rihgts at edx - Stanford</li>
+<li>🌐 Member of Women's Health and Human Rihgts at Edx - Stanford</li>
 <li>💭 Curious about everything and a lifelong leaner</li>
 <li>🎨 Extra fact: in main times I'm a Pointillism Designer</li>
 
