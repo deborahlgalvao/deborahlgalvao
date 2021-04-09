@@ -7,7 +7,7 @@
 <li>🔠 Volunteer translator at Coursera</li>
 <li>🌐 Member of Women's Health and Human Rights at Edx - Stanford</li>
 <li>💭 Curious about everything and a lifelong learner</li>
-<li>🎨 Extra fact: in main times I'm a Pointillism Designer</li>
+<li>🎨 In main times I'm a Pointillism Designer</li>
 
 <h3> Well, that's my mood right now:</h3>
 
